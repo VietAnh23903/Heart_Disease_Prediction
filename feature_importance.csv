@@ -1,0 +1,19 @@
+Feature,Importance
+Thallium,0.5943386
+Chest pain type,0.14593893
+Slope of ST,0.053054824
+Number of vessels fluro,0.050844695
+silent_ischemia_flag,0.041038916
+Exercise angina,0.03475379
+Sex,0.023234652
+stress_score,0.017089859
+Max HR,0.012452737
+EKG results,0.009834968
+ST depression,0.0075773154
+Age,0.0052757864
+Cholesterol,0.0015116824
+BP,0.0009729183
+hr_reserve_ratio,0.0007778328
+bp_chol_interaction,0.00069039874
+FBS over 120,0.0006121161
+age_risk,0.0
